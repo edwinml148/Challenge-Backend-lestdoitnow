@@ -101,10 +101,10 @@ WSGI_APPLICATION = 'api_crud.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
-database_name = None
-database_user = "letsdoit"
+database_name = "edwinml"
+database_user = "cifu"
 database_password = "13defebrero"
-database_endpoint = "test-master.chkmvywxqttn.us-east-1.rds.amazonaws.com"
+database_endpoint = "general-testing-ldin.caio4cdm27ia.us-east-1.rds.amazonaws.com"
 
 DATABASES = {
     "default": {
