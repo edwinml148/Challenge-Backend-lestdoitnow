@@ -10,3 +10,5 @@ sqlparse==0.4.1
 requests==2.26.0
 pandas==1.3.5
 sqlalchemy==1.4.35
+drf-typed-views==0.3.0
+marshmallow==3.13.0
