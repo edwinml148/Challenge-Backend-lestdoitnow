@@ -65,7 +65,7 @@ Body:
 
 ```
 Url : http://localhost:8000/v1/customers/<int:customer>/movements
-Metodo : POST
+Metodo : GET
 
 ```
 
